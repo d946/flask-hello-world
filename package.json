@@ -3,7 +3,7 @@
     "description": "Моя библиотека для MicroPython",
     "dependencies": [],
     "package": {
-        "name": "ina3221",
+        "name": "flask-hello-world",
         "files": ["ina3221.py"]
     }
 }
