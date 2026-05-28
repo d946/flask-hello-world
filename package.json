@@ -1,0 +1,9 @@
+{
+    "version": "1.0.0",
+    "description": "Моя библиотека для MicroPython",
+    "dependencies": [],
+    "package": {
+        "name": "ina3221",
+        "files": ["ina3221.py"]
+    }
+}
