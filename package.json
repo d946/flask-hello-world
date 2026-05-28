@@ -1,6 +1,9 @@
 {
     "version": "1.0.0",
     "description": "Моя библиотека для MicroPython",
+  "urls": [
+    ["lib/ina3221.py", "ina3221.py"]
+  ],    
     "dependencies": [],
     "package": {
         "name": "flask-hello-world",
