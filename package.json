@@ -7,6 +7,7 @@
     "dependencies": [],
     "package": {
         "name": "flask-hello-world",
-        "files": ["ina3221.py"]
+        "files": ["ina3221.py"],
+        "urls": [    ["lib/ina3221.py", "ina3221.py"]  ]
     }
 }
